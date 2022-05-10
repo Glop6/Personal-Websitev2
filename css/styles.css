@@ -1,0 +1,177 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Brush Script MT', cursive;
+  line-height: 0;
+}
+
+h2 {
+  font-size: 2.1rem;
+  color: #035397;
+  font-weight: normal;
+}
+
+h3 {
+  color: #001E6C;
+  font-size: 1.6rem;
+}
+
+hr {
+  margin: 60px auto 60px auto;
+  border-color: #74959A;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 3%;
+}
+
+a {
+  font-family: 'Exo 2', sans-serif;
+  color: #EEEDDE;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+
+.top-container {
+
+  background-color: #16213E;
+  padding-top: 250px;
+
+
+}
+
+.hello {
+  padding-top: 20px;
+}
+
+.name {
+  position: relative;
+  color: #EEEDDE;
+    font-size: 4.3rem;
+
+
+}
+
+.Profession {
+  position: absolute;
+  color: #EEEDDE;
+  font-family: Copperplate, Papyrus, fantasy;
+  font-size: 2.1rem;
+right: 750px;
+
+
+}
+
+.aguila1 {
+  float: right;
+  height: 70px;
+  position: absolute;
+  right: 300px;
+  top: 110px;
+}
+
+
+
+
+
+.namefoot {
+  color: #EEEDDE;
+
+}
+.montain1 {
+position: relative;
+width: 100%;
+
+}
+.skills1 {
+  margin-right: 55px;
+  width: 25%;
+  float: left;
+}
+
+.skills2 {
+  float: right;
+  margin-left: 55px;
+  width: 25%;
+}
+
+.presentation {
+  font-family: 'Exo 2', sans-serif;
+}
+
+.parrafo1, .attitude {
+  text-align: right;
+  font-family: 'Exo 2', sans-serif;
+}
+
+.parrafo2 {
+  text-align: left;
+  font-family: 'Exo 2', sans-serif;
+}
+
+.art {
+  font-family: 'Exo 2', sans-serif;
+  text-align: left;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.hr2 {
+  margin: 150px auto auto auto;
+}
+
+.contact-me {
+  margin: 100px auto 100px auto;
+}
+
+.bottom-container {
+  margin: 50px;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.contact-me {
+  line-height: 2;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #16213E;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  margin: 0;
+}
